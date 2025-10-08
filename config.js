@@ -2,7 +2,7 @@
 // Firebase Configuration (Compat SDK) 
 // ======================= 
 const firebaseConfig = {
-  apiKey: "AIzaSyDxZKNLXbIlDIt9lk-pwGja7qVNOcJLEjM",
+  api key: 
   authDomain: "ecofinds-4d53d.firebaseapp.com",
   databaseURL: "https://ecofinds-4d53d-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "ecofinds-4d53d",
